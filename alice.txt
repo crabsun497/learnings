@@ -1,4 +1,1 @@
-
-How's your learning going?
-Hope it's going well.
-What's your name?
+Git learnings
